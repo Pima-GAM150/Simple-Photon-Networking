@@ -34,4 +34,6 @@ MonoBehaviour:
   - RespawnSpaceship
   - SetColor
   - SpawnParticle
+  - SetRandomSeed
   DisableAutoOpenWizard: 1
+  ShowSettings: 0
